@@ -259,7 +259,9 @@ h2 {
     width: 95vw;
     height: auto;
     display: inline-block;
+    text-decoration: none;
   }
+
   .radovi a div {
     font-size: 5vw !important;
   }
