@@ -35,8 +35,14 @@ h1 {
 }
 
 .w3 {
-  width: 320px;
+  width: auto;
   overflow: hidden;
+}
+
+@media only screen and (min-width: 1024px) {
+  .w3 {
+    width: 320px;
+  }
 }
 
 h2 {
